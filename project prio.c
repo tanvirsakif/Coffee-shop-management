@@ -5,6 +5,8 @@
 #include <string.h>
 
 
+
+
 //Restaurant globals
 int token = 0,tokens[50], payment_counter=0;
 
